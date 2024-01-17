@@ -499,7 +499,7 @@ var walletConnect = {
           rpc: {
             //   56: "https://bsc-dataseed1.defibit.io" BNB Chain,
             //  1116: "https://rpc.coredao.org" Core DAO,
-            11166: "https://rpc.coredao.org//",
+            1116: "https://rpc.coredao.org/",
             1116: "https://rpc.coredao.org/",
           },
           network: "CoreDAO",
